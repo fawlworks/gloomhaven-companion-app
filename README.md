@@ -1,38 +1,38 @@
 # ⚔️ Gloomhaven Companion App
 
-**Gloomhaven: Fauces del León Companion App** es una herramienta digital de soporte diseñada específicamente para agilizar la gestión de las complejas mecánicas de Gloomhaven: Fauces del León.
+**Gloomhaven: Fauces del León Companion App** es un asistente digital de campaña diseñado para agilizar la gestión de las mecánicas de combate en **Gloomhaven: Fauces del León.**
 
-Esta aplicación nace de la necesidad de "limpiar" la mesa de juego, eliminando los diales de vida físicos, los tracks de experiencia y el tablero de infusión elemental. Permite a los jugadores centrarse en lo que realmente importa: la estrategia en la mazmorra.
+Esta aplicación nace para despejar la mesa de juego de diales, fichas y tableros de cartón, permitiendo que los mercenarios se centren en lo que de verdad importa: **la estrategia de supervivencia y el éxito de la misión.**
 
 ---
 
-## 🛠️ Funcionalidades Clave (v1.0)
+## 🛠️ Herramientas de Campaña (v1.0)
 
-* **Panel de Héroes:** Gestión centralizada de Puntos de Vida (HP) y Experiencia (XP) para todo el grupo de mercenarios.
+* **Registro de Mercenarios:** Seguimiento centralizado de la Salud (HP) y la Experiencia (XP) de todo el grupo en una sola pantalla.
 
-* **Tablero Elemental:** Control digital de los seis elementos con lógica de desvanecimiento automático (Fuerte -> Menguante -> Inerte) al final de cada ronda.
+* **Tablero de Elementos:** Gestión visual de las seis energías elementales con lógica de desvanecimiento automático (Fuerte -> Menguante -> Inerte) al finalizar cada ronda.
 
-* **Gestor de Estados:** Sistema de activación rápida para estados alterados (Veneno, Herida, Aturdimiento, etc.) con iconos visuales claros.
+* **Control de Estados:** Sistema rápido para marcar condiciones (Veneno, Herida, Aturdimiento, etc.) con iconos identificativos para no olvidar ningún modificador.
 
-* **Contador de Rondas:** Seguimiento del progreso del escenario para coordinar habilidades de larga duración.
+* **Contador de Rondas:** Seguimiento del progreso del escenario para coordinar habilidades y efectos de larga duración.
 
-* **Diseño para Mesa:** Interfaz de alto contraste optimizada para ser leída en condiciones de luz tenue (típicas de noches de juego).
+* **Interfaz de Mazmorra:** Diseño de alto contraste con estética de pergamino, optimizado para leerse fácilmente en la mesa de juego bajo cualquier iluminación.
 
 ---
 
 ## 🎨 Dirección de Arte y Desarrollo
 
-Este proyecto adopta una estética **"Dark Fantasy UI"**, fusionando el aspecto de pergamino antiguo del juego original con la limpieza de las interfaces modernas.
+Este proyecto utiliza una estética **"Dark Fantasy UI"**, que combina el arte visual de los componentes originales con una estructura de navegación moderna y fluida.
 
-* **UI/UX:** Diseño Thumb-friendly optimizado para dispositivos móviles y tablets.
-
+* **UI/UX:** Diseño pensado para el uso con una sola mano, optimizado para dispositivos móviles y tablets.
+  
 * **Stack Tecnológico:** HTML5, Tailwind CSS, JavaScript (Vanilla).
 
 ---
 
-## 🚀 Despliegue Táctico
+## 🦁 Senda del Mercenario
 
-**🌐 Prueba la app online:** [https://estudiosventorrillo.github.io/gloomhaven-companion-app/](https://estudiosventorrillo.github.io/gloomhaven-companion-app/)
+**🌐 Accede a la aplicación online:** [https://estudiosventorrillo.github.io/gloomhaven-companion-app/](https://estudiosventorrillo.github.io/gloomhaven-companion-app/)
 
 
 ---
@@ -51,4 +51,4 @@ Este proyecto adopta una estética **"Dark Fantasy UI"**, fusionando el aspecto 
 
 ## ⚠️ Aviso Legal
 
-Este es un **proyecto Fan-Made sin ánimo de lucro**. No está afiliado, asociado, autorizado ni conectado oficialmente de ninguna manera con Cephalofair Games o su diseñador original Isaac Childres. Todas las imágenes y marcas registradas son propiedad de sus respectivos dueños.
+Este es un proyecto **Fan-Made sin ánimo de lucro**. No está afiliado, asociado, autorizado ni conectado oficialmente de ninguna manera con **Cephalofair Games o su diseñador original Isaac Childres.** Todas las imágenes y marcas registradas son propiedad de sus respectivos dueños.
