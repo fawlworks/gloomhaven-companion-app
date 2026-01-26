@@ -1,10 +1,5 @@
 # ⚔️ Gloomhaven Companion App
 
-<div align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Estado-Beta--v1.0-d5b66f%3Fstyle%3Dfor-the-badge" alt="Estado Beta">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Sector-Juegos_de_Mesa-2b2b2b%3Fstyle%3Dfor-the-badge" alt="Sector Juegos de Mesa">
-</div>
-
 **Gloomhaven: Fauces del León Companion App** es una herramienta digital de soporte diseñada específicamente para agilizar la gestión de las complejas mecánicas de Gloomhaven: Fauces del León.
 
 Esta aplicación nace de la necesidad de "limpiar" la mesa de juego, eliminando los diales de vida físicos, los tracks de experiencia y el tablero de infusión elemental. Permite a los jugadores centrarse en lo que realmente importa: la estrategia en la mazmorra.
