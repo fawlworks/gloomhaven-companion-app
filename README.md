@@ -32,7 +32,7 @@ Este proyecto utiliza una estética **"Dark Fantasy UI"**, que combina el arte v
 
 ## 🦁 Senda del Mercenario
 
-**🌐 Accede a la aplicación online:** [https://estudiosventorrillo.github.io/gloomhaven-companion-app/](https://estudiosventorrillo.github.io/gloomhaven-companion-app/)
+**🌐 Accede a la aplicación online:** [https://fawlworks.github.io/gloomhaven-companion-app/](https://fawlworks.github.io/gloomhaven-companion-app/)
 
 
 ---
